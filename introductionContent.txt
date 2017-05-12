@@ -1,4 +1,4 @@
-INTRODUCTION
+INTRDUCTION
 
 What, Why, How and When?
 
@@ -59,7 +59,7 @@ The Why?
 	have enough computing power to process this huge amounts of data. Here processing means doing the hardwork as in case of a child. 
 	Recent advancements in GPU computing has given computers enough power to leverage a lot of potential in this human generated data. 
 	
-	How?
+How?
 	
 	After understanding the what and why of machine learning, we can now concern ourselves with the how of machine learning. How do
 	we do machine learning or what does the how of machine learning involve?
@@ -72,7 +72,7 @@ The Why?
 	By writing instructions of 'how to learn' for the computer, using statistical learning methods we enable the computer to learn anything
 	we desire. 
 	
-	When?
+When?
 	
 	Now, if given a particular problem, we ask the question when do we apply machine learning on that problem or on what kinds of
 	problems do we apply machine learning?
