@@ -1,0 +1,87 @@
+INTRODUCTION
+
+What, Why, How and When?
+
+What?
+
+	Formally, the most popular definition of machine learning is given by computer scientist Tom M. Mitchell - "A computer program 
+	is said to learn from experience E with respect to some class of task T and performance P, if its performance at tasks T improves 
+	with experience E."
+
+	This definition does not make much sense to the uninitiated in machine learning but it really captures the soul of machine learning
+	practices being carried out today. 
+	
+	Further, we will understand this soul machine learning through different analogies but before that we need to understand the Why
+	of machine learning. In the section below we will ask and give answers to questions such as, why do we need machine learning
+	when we already have programming languages? Why did machine learning even come into the big picture of the information age? And 
+	above all why should we even care to learn machine learning? These questions seem to too trivial but these questions are really 
+	going to help us deeply understand machine learning. 
+	
+The Why?
+
+	Since its inception, a computer has been a machine which is described as a dumb box which 'always' needs instructions 'everytime' 
+	from the user to accomplish a particular task. The user has to explicitly define each instruction for the computer to perform any 
+	task. Previously these instructions were written in low level languages such as assembly language and nowadays these instructions
+	are written in high level languages such as python, java, etc. These instructions are nothing but mathematical statements written 
+	in a language which can be understood by the computer. 
+	
+	However, these instructions are very static in nature. Once we define these instructions and run them, we get some results which
+	may or may not be what we intended. We cannot expect the computer to refine and improve on these results unless we again define
+	the improved instructions for the computer. Everytime we need the improved results, we have to define the improved instructions. 
+	
+	But not anymore. With the advent of machine learning, we can now define the correct instructions once and the computer will
+	improve and add to the accuracy of the results overtime all by its own, just like a normal human being who with practice
+	improves his/her performance at some task.
+	
+	Analogy - 
+	We take the analogy of a 5 year old child who is learning the english alphabets. 
+	Before machine learning, lets assume that the 5 year old child is a computer. We used to define instructions for the child
+	to recognize the letter 'A' everytime the child encountered the letter 'A' anywhere in his text. The letter 'A' can be in a 
+	neat printed form or a rough handwritten format. Everytime the child came across the letter 'A', he used to ask his Dad, what is this?
+	And the Dad told him its 'A'. Even when the child grew up to be an adult, everytime he saw an 'A', he had to be told that what he
+	saw was the letter 'A' and this continued till the end of his life. This used to be the state of computers before machine learning. 
+	
+	But now, just like we normally teach a 5 year old child to read 'A' as 'A', anywhere he sees it and he learns to recognize it with
+	practice and hardwork and he remembers it for his whole lifetime, we define instructions for the computer to learn the letter 'A'
+	and the previously dumb computer now learns to recognize the letter 'A' with practice and hardwork, in any form it encounters, be 
+	it handwritten, colored font, small size, big size, etc. The computer has now learned to recognize the shape of 'A' just like a 
+	human child. We do not need to explicitly define instructions everytime the computer sees a differently written 'A'. 
+	
+	So, what changed? Previously, we were writing instructions for the computer to recognize 'A' but now we are writing instructions
+	for the computer to 'learn' to recognize 'A'. In a very basic sense, we are now teaching the computer to learn, how to learn. 
+	We are now writing instructions for 'how to learn' for the computer. 
+	
+	So the next quetions is why now? Why wasn't this done previously? The answer lies in data. Just like a child needs to practice by
+	writing and reading the letters a lot of times to learn a letter, the computer in order to learn a letter needs to practice seeing
+	the same data many times in many formats. This practice requires massive amounts of data for the computer. This was not possible
+	before because previously we did not have enough digitised data for the computer to see and practice. As the humans produced more 
+	and more data in the recent years, we had enormous amounts of ata for the computers to practice from. Also, the computer did not 
+	have enough computing power to process this huge amounts of data. Here processing means doing the hardwork as in case of a child. 
+	Recent advancements in GPU computing has given computers enough power to leverage a lot of potential in this human generated data. 
+	
+	How?
+	
+	After understanding the what and why of machine learning, we can now concern ourselves with the how of machine learning. How do
+	we do machine learning or what does the how of machine learning involve?
+	
+	In the most basic sense, machine learning is nothing but some mathematical techniques which are applied on enormous amounts of data. 
+	These techniques are derived from the statistical branch of mathemtaics, genetics, evolution theory, etc. Many of the machine learning
+	techniques are derived and inspired from statistics. Rightly so, these methods are called as Statistical learning methods. Therefore, 
+	a study statistics is also recommended alongside studying machine learning. 
+	
+	By writing instructions of 'how to learn' for the computer, using statistical learning methods we enable the computer to learn anything
+	we desire. 
+	
+	When?
+	
+	Now, if given a particular problem, we ask the question when do we apply machine learning on that problem or on what kinds of
+	problems do we apply machine learning?
+	
+	In a very abstract way, the problems which are so massive that we cannot anticipate all the paramters and cases in it and we 
+	cannot write a program of all the possible scenarios of that problem and we require a computer to learn itself everything about the
+	problem's solutions is where we apply machine learning. 
+	
+	However, this is a very abstract way of stating the 'when'. To really understand exactly where, when and on what problems
+	we apply machine learning, we will have to study machine learning in a little more detail. 
+	
+	In the further sections of the app, we will exactly see this and learn the machine learning techniques and algorithms in detail. 
